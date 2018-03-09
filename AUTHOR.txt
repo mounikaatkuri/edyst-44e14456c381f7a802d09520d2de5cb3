@@ -1,0 +1,3 @@
+# Details
+- author: anjali.athkuri@gmail.com
+- role: STUDENT
